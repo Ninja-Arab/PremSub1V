@@ -1,0 +1,9 @@
+premium_bot/
+├── bot.py
+├── config.py
+├── database.py
+├── models.py
+├── utils.py
+├── requirements.txt
+└── data/
+    └── bot.db
